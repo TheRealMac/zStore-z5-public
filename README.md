@@ -5,4 +5,4 @@ used to deploy updates for [zStore z5](https://codecanyon.net/item/zstore-z5-an-
 
 ### Updates
 
-- [Adding support for lower cased ASINs for z5 v1.62 1.0](case-insensitive-item-URLs-1.62.1.md)
+- [Adding support for lower cased ASINs for z5 v1.62 V1](case-insensitive-item-URLs-1.62.1.md)
